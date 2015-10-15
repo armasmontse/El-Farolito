@@ -1,0 +1,316 @@
+/* Header */
+
+header{
+	background-image: url("../img/img-home.png");
+	height: 670px;
+}
+nav li{
+	font-size: 140%;
+	color: #989898;
+	margin-top: 3%;
+	margin-right: 3%;
+}
+nav li a{
+	color: #989898;
+}
+.marginnosotros{
+	margin-left: 10%;
+}
+/* Botones */
+.es{
+	-moz-border-radius: 14px;
+	-webkit-border-radius: 14px;
+	border-radius: 10px;
+	border: 1px solid #989898;
+	display: inline-block;
+	cursor: pointer;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 3px 0px 3px 11px;
+	text-shadow:0px 1px 1px #ffffff;
+}
+.es:hover{
+	background-color:#F6F6F6;
+}
+.es:active{
+	position:relative;
+	top: 1px;
+}
+.ingresar{
+	background-color: #989898;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #989898;
+	display: inline-block;
+	cursor: pointer;
+	color: white;
+	font-size: 13px;
+	font-weight: bold;
+	padding: 4px 14px;
+	margin-left: 17%;
+}
+.ingresar:hover {
+	background-color: #DFDFDF;
+}
+.ingresar:active {
+	position: relative;
+	top: 1px;
+}
+/* Logo */
+.pt-18{
+	padding-top: 18%;
+}
+.pb-12{
+	padding-bottom: 12%;
+}
+/* Texto */
+.ptexto{
+	padding: 0 8% 0 8%;
+}
+.perfil{
+	background-color: #FF6A49;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 1px solid #FF6A49;
+	display: inline-block;
+	cursor: pointer;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 15px 56px;
+	margin: 0 26%;
+	color: white;
+}
+.perfil:hover{
+	background-color: #E61010;
+}
+.perfil:active{
+	position: relative;
+	top: 1px;
+}
+
+.abajo{
+	position: relative;
+	margin-top: 5%;
+}
+.abajo1{
+	position: relative;
+	top: 30px;
+}
+.abajo2{
+	position: relative;
+	top: 170px;
+}
+
+/* Section Metodología */
+.mcostado1{
+	margin: 0 1%;
+}
+
+.ver{
+	background-color: #28C5E6;
+	-moz-border-radius: 17px;
+	-webkit-border-radius: 17px;
+	border-radius: 17px;
+	border: 1px solid #28C5E6;
+	display: inline-block;
+	cursor: pointer;
+	font-size: 20px;
+	font-weight: bold;
+	padding: 19px 70px;
+	color: #FFF;
+	margin-left: 41%;
+}
+.ver:hover{
+	background-color:#019ad2;
+}
+.ver:active{
+	position:relative;
+	top:1px;
+}
+
+/* Section Postulantes */
+.bgceleste{
+	background-color: #41A1A9;
+	height: intrinsic;
+}
+.arriba{
+	margin-top: -2%;
+}
+.texto-blanco{
+	color: white;
+}
+.fright{
+	float: right;
+}
+.hrpost{
+	margin-top: 10%;
+	border: 1px dashed white;
+	width: 100%;
+}
+.icono1{
+	position: relative;
+	top: -5px;
+	left: -90px;
+}
+.iconos2{
+	position: relative;
+	top: 10px;
+	left: -90%;
+}
+.borderight{
+	border-right: 1px dashed white;
+}
+.ver2 {
+	background-color: #28C5E6;
+	-moz-border-radius: 17px;
+	-webkit-border-radius: 17px;
+	border-radius: 17px;
+	border: 2px solid #FFFFFF;
+	display: inline-block;
+	cursor: pointer;
+	color: #FFFFFF;
+	font-size: 17px;
+	font-weight: bold;
+	padding: 23px 51px;
+	margin-left: 38%;
+}
+.ver2:hover {
+	background-color:#41A1A9;
+}
+.ver2:active {
+	position:relative;
+	top:1px;
+}
+.bordercentro{
+	position: absolute;
+	width: 20px;
+	height: 650px;
+	border-right: 1px dashed #FFF;
+	left: 48%;
+}
+/* Section Empresas */
+
+.hrempresas{
+	border: 2px dashed #FF6A49;
+	margin: 2% 24%;
+}
+.mlados3{
+	margin: 0 23%;
+}
+.contactanos {
+	background-color: #FF6A49;
+	-moz-border-radius:22px;
+	-webkit-border-radius:22px;
+	border-radius:22px;
+	border:1px solid #FF6A49;
+	display:inline-block;
+	cursor:pointer;
+	color: #FFF;
+	font-size:18px;
+	font-weight:bold;
+	padding:21px 55px;
+	margin-top: 2%;
+}
+.contactanos:hover {
+	background-color: #E61010;
+}
+.contactanos:active {
+	position:relative;
+	top:1px;
+}
+/* Section Verde */
+.bgverde{
+	background-color: #77D248;
+}
+.hrverde{
+	border: 2px dashed white;
+	margin: 2% 24%;	
+}
+.buttoneducativos {
+	background-color: #77D248;
+	-moz-border-radius: 22px;
+	-webkit-border-radius: 22px;
+	border-radius: 22px;
+	border: 3px solid #ffffff;
+	display: inline-block;
+	cursor: pointer;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 21px 50px;
+}
+.buttoneducativos:hover {
+	background-color:#68f0de;
+}
+.buttoneducativos:active {
+	position:relative;
+	top:1px;
+}
+
+/* Section Oportunidades */
+.bgoportunidades{
+	background-image: url("../img/img-03.png");
+	height: 1160px;
+}
+.h3celeste{
+	border-bottom: 1px #28C5E6 solid;
+	width: 30%;
+}
+.asesor{
+	width: 40%
+}
+.supervisor{
+	width: 55%;
+}
+.vermas {
+	background-color:transparent;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	border: 2px solid #FF6A49;
+	display:inline-block;
+	cursor:pointer;
+	color:#FF6A49;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 15px;
+	margin-top: 50%;
+}
+.vermas:hover {
+	background-color: #28C5E6;
+}
+.vermas:active {
+	position:relative;
+	top:1px;
+}
+.hrpunteado{
+	border: 1px dashed #989898;
+	width: 53%;
+	margin-left: 25%;
+	margin-top: 16%;
+}
+.vertodos {
+	background-color:#989898;
+	-moz-border-radius:13px;
+	-webkit-border-radius:13px;
+	border-radius:13px;
+	border:1px solid #989898;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size:15px;
+	font-weight:bold;
+	padding:7px 24px;
+	margin-left: 43%;
+	margin-top: 2%;
+}
+.vertodos:hover {
+	background-color:#807b77;
+}
+.vertodos:active {
+	position:relative;
+	top:1px;
+}
+
+/* Section  */
